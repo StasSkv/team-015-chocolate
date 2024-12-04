@@ -1,5 +1,6 @@
 :root {
-  --font-family: 'Gilroy', sans-serif;
+  --font-family: 
+  
 
   --main: #0c0c0c;
   --accent: #3350e9;
@@ -21,6 +22,7 @@
 }
 
 body {
+  font-family: "Montserrat", serif;
   display: flex;
   flex-direction: column;
   min-width: 100vw;
